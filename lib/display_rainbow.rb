@@ -4,4 +4,4 @@ def display_rainbow(x)
   end
 colors = ['red','orange','yellow','green','blue','indigo','violet']
 
-display_rainbow(color[0])
+display_rainbow(colors)
