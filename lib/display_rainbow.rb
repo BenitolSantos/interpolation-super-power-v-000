@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  rainbow = ['red','orange','yellow','green','blue','indigo','violet']
   end
+color = ['red','orange','yellow','green','blue','indigo','violet']
 
-display_rainbow(rainbow[1])
+display_rainbow(color[0])
