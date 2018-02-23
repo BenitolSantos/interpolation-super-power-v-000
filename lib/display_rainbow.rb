@@ -1,7 +1,7 @@
 # Write your #display_rainbow method here
-def display_rainbow(colors)
-  puts "#{colors}"
+def display_rainbow(x)
+  puts "#{x}"
   end
-color = ['red','orange','yellow','green','blue','indigo','violet']
+colors = ['red','orange','yellow','green','blue','indigo','violet']
 
 display_rainbow(color[0])
